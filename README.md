@@ -1,2 +1,0 @@
-# Tienda2
-Tienda
